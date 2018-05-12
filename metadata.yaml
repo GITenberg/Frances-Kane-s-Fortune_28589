@@ -1,0 +1,38 @@
+_repo: Frances-Kane-s-Fortune_28589
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28589-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Elizabeth Thomasina
+    - Mead, L. T.
+    - Meade, Lillie
+    - Meade, Mrs. L. T.
+    - Smith, Elizabeth Thomasina Meade
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: Frances Kane's fortune -- Monsieur the viscount's friend -- The Yew-Lane
+  ghosts.
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: Frances Kane's fortune -- Monsieur the viscount's friend -- The yew-lane
+  ghosts.
+title: Frances Kane's Fortune
+url: http://www.gutenberg.org/ebooks/28589
