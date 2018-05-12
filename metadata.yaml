@@ -20,6 +20,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: Frances Kane's fortune -- Monsieur the viscount's friend -- The Yew-Lane
   ghosts.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28589#Frances-Kane-s-Fortune
 gutenberg_issued: '2009-04-22'
 gutenberg_type: Text
 identifiers:
